@@ -10,5 +10,4 @@ fn generate_lazy_sequence(original_n: i32, n: i32) {
         if n != original_n {
             print!("{} ", n.abs());
         }
-    }
-}
+    }}
